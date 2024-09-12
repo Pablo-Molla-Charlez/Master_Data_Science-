@@ -27,7 +27,7 @@ This repository is a structured archive of my projects and assignments completed
 Clone the repository to explore the materials:
 
 ```bash
-git clone https://github.com/your-username/Master_Data_Science.git
+git clone https://github.com/your-username/Master_M1_Data_Science.git
 ```
 
 Dive into each folder to find detailed notebooks and scripts related to each topic. The `History_AI` folder diverges by offering literature to broaden the understanding of AI's evolution and impact.
